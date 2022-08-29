@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+h1 {
+    width: 280px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    margin-bottom: 50px;
+    color: #6C6B6B;
+}
+
+
+h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color: #6C6B6B;
+}
+
+.author-h3 {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+
+    color: #6C6B6B;
+}
+
+.line {
+    width: 56px;
+    border-bottom: solid 0.5px #6C6B6B;
+}
+
+
+.button-add{
+    width: 124px;
+height: 39px;
+border:  solid 1px #929191;
+border-radius: 12px;
+padding: 11px;
+margin-bottom: 25px;
+color: #6C6B6B;
+text-decoration: none;
+}
+
+.button-add:hover{
+    border:  solid 1px #a09f9f;
+    color: #a09f9f;
+    cursor: pointer;
+}
+
+h2{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+margin-bottom: 20px;
+margin-top: 12px;
+color: #8B8B8B;
+
+}
+
+
+.banner-text{
+    height: 450px;
+}

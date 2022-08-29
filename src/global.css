@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+
+}
+
+body, button, input {
+    font-family: 'Montserrat', sans-serif ;
+    
+    background-color: #EDECE9;
+  
+}
+
+body{
+    overflow-x: hidden;
+}

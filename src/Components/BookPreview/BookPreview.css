@@ -1,0 +1,19 @@
+.book-preview {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    align-items: center;
+    border: 0;
+    box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.05);
+    height: 60;
+    width: 415px;
+}
+
+.author-span{
+    font-style: italic;
+    font-weight: 300;
+}
+
+.title-span {
+    font-weight: 700;
+}

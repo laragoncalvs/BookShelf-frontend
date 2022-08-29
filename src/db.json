@@ -1,0 +1,58 @@
+{
+    "booksGenres": [
+        "Action and adventure",
+        "Autobiography",
+        "Anthology",
+        "Biography",
+        "Children's",
+        "Classic",
+        "Comic book",
+        "Crime",
+        "Drama",
+        "Fairytale",
+        "Fantasy",
+        "History",
+        "Historical fiction",
+        "Humor",
+        "Horror",
+        "Mystery",
+        "Philosophy",
+        "Poetry",
+        "Romance",
+        "Science fiction",
+        "Science",
+        "Suspense",
+        "Self help",
+        "Thriller",
+        "True crime",
+        "Western"
+    ],
+    "quotesText": [
+        {
+            "quote":"“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.”",
+            "author": "George R.R. Martin"
+        },
+        {
+            "quote":"“Until I feared I would lose it, I never loved to read. One does not love breathing.”",
+            "author": "Harper Lee"
+        },
+        {
+            "quote":"“Books are a uniquely portable magic.”",
+            "author": "Stephen King"
+        },
+        {
+            "quote":"“There is more treasure in books than in all the pirate’s loot on Treasure Island.”",
+            "author": "Walt Disney"
+        },
+        {
+            "quote":"“My alma mater was books, a good library…. I could spend the rest of my life reading, just satisfying my curiosity.”",
+            "author": "Malcolm X"
+        },
+        {
+            "quote":"“There is no Frigate like a Book To take us Lands away.”",
+            "author": "Emily Dickinson"
+        }
+
+
+    ]
+}

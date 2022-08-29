@@ -1,0 +1,48 @@
+main {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container-main {
+    display: flex;
+    width: 75%;
+    flex-direction: column;
+    
+}
+
+.container-banner{
+    display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        position: relative;
+        top: -85px;
+}
+
+
+.books-rotate{
+    transform: rotate(-90deg);
+       height: 450px;
+       width: 450px
+}
+
+nav {
+    margin-bottom: 150px;
+}
+
+
+.ghost-book{
+    height: 450px;
+    width: 45px;
+}
+
+.books-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.book-shelf{
+    position: relative;
+    top:358px;
+    height: 0px;
+}
